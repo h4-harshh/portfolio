@@ -595,9 +595,10 @@ body.dark-theme {
   height: 322px;
   background-color: var(--container-color);
   text-align: center;
-  padding: 3.5rem 1rem;
+  padding: 3.5rem 2rem;
   border-radius: 7.25rem;
   transition: background 0.4s; /* for dark mode animation */
+    
 }
 
 .services__card i {
